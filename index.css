@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#password-output {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 50px;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+#password-cursor {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50px;
+  width: 500px;
+}
+
+#password-length {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 500px;
+  height: 50px;
+  font-size: 1.5em;
+  text-align: center;
+}
+
+.checkbox {
+  display: flex;
+  font-size: 1.5em;
+  align-items: center;
+  margin-left: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+button {
+  width: 500px;
+  height: 150px;
+  background-color: orange;
+}
